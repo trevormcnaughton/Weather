@@ -6,7 +6,7 @@
   "scripts": {
     "start": "initai-dev-server"
   },
-  "author": "<my-name> <<my-email-address>>",
+  "author": "Trevor",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
